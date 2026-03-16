@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="162" height="20" role="img" aria-label="AIx: 5/5 · Lorem Ipsum">
+  <title>AIx: 5/5 — Lorem Ipsum</title>
+  <linearGradient id="s" x2="0" y2="100%">
+    <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <clipPath id="r">
+    <rect width="162" height="20" rx="3" fill="#fff"/>
+  </clipPath>
+  <g clip-path="url(#r)">
+    <rect width="36" height="20" fill="#555"/>
+    <rect x="36" width="126" height="20" fill="#b91c1c"/>
+    <rect width="162" height="20" fill="url(#s)"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="110">
+    <text x="178" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="235" lengthAdjust="spacing">AIx</text>
+    <text x="178" y="140" transform="scale(.1)" textLength="235" lengthAdjust="spacing">AIx</text>
+    <text x="988" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="1145" lengthAdjust="spacing">5/5 · Lorem Ipsum</text>
+    <text x="988" y="140" transform="scale(.1)" textLength="1145" lengthAdjust="spacing">5/5 · Lorem Ipsum</text>
+  </g>
+</svg>
