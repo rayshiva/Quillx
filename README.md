@@ -2,9 +2,9 @@
 
 **Code is literature. How much of yours did you actually write?**
 
-AIx is an open standard for disclosing AI involvement in software projects — expressed through the language of authorship. Not a judgment. Just transparency.
+AIx is an open standard for disclosing AI involvement in software projects - expressed through the language of authorship. Not a judgment. Just transparency.
 
-[![AIx](badges/aix-2.svg)](https://github.com/qainsights/aix)
+[![AIx](badges/aix-3.svg)](https://github.com/qainsights/aix)
 
 ---
 
