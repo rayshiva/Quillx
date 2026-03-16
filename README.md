@@ -55,7 +55,7 @@ Read the full [SPEC.md](SPEC.md) for scoring criteria.
 
 ## License
 
-[CC0 1.0 Universal](LICENSE) — free for any use, no attribution required.
+[CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.en) - free for any use, no attribution required.
 
 ---
 
