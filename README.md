@@ -30,7 +30,7 @@ Add to your `README.md`:
 
 Or declare it in plain text:
 
-> **AIx: 2/5 · Prose** — Architecture and logic are mine. AI scaffolded the boilerplate and tests.
+> **AIx: 2/5 · Prose** - Architecture and logic are mine. AI scaffolded the boilerplate and tests.
 
 ---
 
@@ -46,10 +46,10 @@ Read the full [SPEC.md](SPEC.md) for scoring criteria.
 
 ## Principles
 
-1. **Transparency over purity** — Not a competition. Honest disclosure.
-2. **Spectrum over binary** — AI use is a gradient, not a switch.
-3. **Self-declared** — Trust the author. The community validates over time.
-4. **Version your score** — Projects evolve. Scores can too.
+1. **Transparency over purity** - Not a competition. Honest disclosure.
+2. **Spectrum over binary** - AI use is a gradient, not a switch.
+3. **Self-declared** - Trust the author. The community validates over time.
+4. **Version your score** - Projects evolve. Scores can too.
 
 ---
 
